@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "short_name": "React App",
   "name": "Create React App Sample",
   "icons": [
@@ -22,4 +23,29 @@
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
+=======
+    "name": "Quarantine Stay",
+    "description": "A platform to list and book quarantined hotels and corona care centers for 14 day isolation in Kerala with all required facilities provided to you",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "logo512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#4C51BF",
+    "background_color": "#4C51BF"
+>>>>>>> 53960a5f684e7aa8310374898a243053fa18aa6f
 }
